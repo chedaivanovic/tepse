@@ -1,0 +1,24 @@
+{
+  "name": "tepihservis",
+  "version": "1.0.0",
+  "description": "Cleaning company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "\"Pranje\""
+  ],
+  "author": "Ceda Ivanovic",
+  "license": "MIT",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
